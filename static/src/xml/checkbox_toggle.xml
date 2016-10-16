@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates xml:space="preserve">
+	<t t-name="ToggleWidgetTemplate">
+ <div class="checkboxFour">
+			<input type="checkbox" id="checkboxFourInput" />
+			<label for="checkboxFourInput"></label>
+		</div>
+	</t>
+ </templates>
